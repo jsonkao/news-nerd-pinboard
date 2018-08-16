@@ -5,6 +5,10 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 - https://datastudiogallery.appspot.com/gallery
 
+## Events
+
+- [https://brown.columbia.edu/events/](Brown Institute)
+
 ## Talks
 
 - https://github.com/robroc/nicar16-visualizing-data-python
@@ -18,3 +22,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 > The successful candidate for this position will be highly skilled in visual design programs, including Illustrator and Photoshop, as well as be comfortable with multimedia tools, front-end development and data analysis (HTML, CSS, JavaScript, Python, QGIS, After Effects).
 
 > Good illustration skills 
+
+## Libraries
+
+- https://github.com/WSJ/two-step
