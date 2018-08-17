@@ -4,7 +4,8 @@ A collection of people, guides, and talks that could help me become an aggressiv
 ## Good Stuff
 
 - https://datastudiogallery.appspot.com/gallery
-- [http://pointsunknown.nyc/](Points Unknown)
+- [Points Unknown](http://pointsunknown.nyc/)
+- [15 Things for Data Journalism](https://github.com/epetenko/15-things-for-dj)
 
 ## Learning
 
@@ -12,7 +13,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 ## Events
 
-- [https://brown.columbia.edu/events/](Brown Institute)
+- [Brown Institute](https://brown.columbia.edu/events)
 
 ## Talks
 
@@ -31,3 +32,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 ## Libraries
 
 - https://github.com/WSJ/two-step
+
+## Cool People
+
+- [Sara Soueidan](https://www.sarasoueidan.com/)
