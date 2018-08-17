@@ -6,6 +6,10 @@ A collection of people, guides, and talks that could help me become an aggressiv
 - https://datastudiogallery.appspot.com/gallery
 - [http://pointsunknown.nyc/](Points Unknown)
 
+## Learning
+
+- https://newsinitiative.withgoogle.com/training/course/data-journalism
+
 ## Events
 
 - [https://brown.columbia.edu/events/](Brown Institute)
