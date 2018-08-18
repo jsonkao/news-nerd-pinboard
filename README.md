@@ -5,8 +5,12 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 - https://datastudiogallery.appspot.com/gallery
 - [Points Unknown](http://pointsunknown.nyc/)
-- [15 Things for Data Journalism](https://github.com/epetenko/15-things-for-dj)
 - http://www.visualisingdata.com/
+
+## Tutorials
+
+- https://github.com/california-civic-data-coalition/first-python-notebook
+- [15 Things for Data Journalism](https://github.com/epetenko/15-things-for-dj)
 
 ## Learning
 
@@ -22,13 +26,20 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 ## Job Postings
 
-[Washington Post](http://washpostpr.tumblr.com/post/176949934717/job-posting-graphics-reporter)
+Common requirements:
+- Drawing/illustration chops
+
+[Washington Post: Graphics Reporter](http://washpostpr.tumblr.com/post/176949934717/job-posting-graphics-reporter)
 
 > The ideal candidate for this job will have a strong portfolio of original, beautifully designed and intuitive visual stories that mix graphics with other media formats. Experience conceiving, designing, reporting and building information graphics on a variety of deadlines is required.
 
 > The successful candidate for this position will be highly skilled in visual design programs, including Illustrator and Photoshop, as well as be comfortable with multimedia tools, front-end development and data analysis (HTML, CSS, JavaScript, Python, QGIS, After Effects).
 
-> Good illustration skills 
+[LA Times: Graphics Director](https://www.journalismjobs.com/1647243-graphics-director-los-angeles-times)
+
+> Exceptional technical expertise, including the ability to develop highly complex data visualizations, using state of the art tools 
+
+> Excellent design skills, including typographic, color logic and information organization
 
 ## Libraries
 
