@@ -6,6 +6,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 - https://datastudiogallery.appspot.com/gallery
 - [Points Unknown](http://pointsunknown.nyc/)
 - [15 Things for Data Journalism](https://github.com/epetenko/15-things-for-dj)
+- http://www.visualisingdata.com/
 
 ## Learning
 
