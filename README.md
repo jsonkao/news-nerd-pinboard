@@ -48,3 +48,4 @@ Common requirements:
 ## Cool People
 
 - [Sara Soueidan](https://www.sarasoueidan.com/)
+- [Sahil Chinoy](https://sahilchinoy.com/)
