@@ -13,6 +13,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 - https://github.com/california-civic-data-coalition/first-python-notebook
 - [15 Things for Data Journalism](https://github.com/epetenko/15-things-for-dj)
+- [R for Data Science](http://r4ds.had.co.nz/)
 
 ## Learning
 
