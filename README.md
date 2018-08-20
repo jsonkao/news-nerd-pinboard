@@ -7,6 +7,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 - [Points Unknown](http://pointsunknown.nyc/)
 - http://www.visualisingdata.com/
 - [Data Nibbles](https://datanibbl.es/)
+- [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
 
 ## Tutorials
 
