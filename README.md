@@ -6,6 +6,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 - https://datastudiogallery.appspot.com/gallery
 - [Points Unknown](http://pointsunknown.nyc/)
 - http://www.visualisingdata.com/
+- [Data Nibbles](https://datanibbl.es/)
 
 ## Tutorials
 
