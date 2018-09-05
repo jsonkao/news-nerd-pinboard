@@ -44,6 +44,12 @@ Common requirements:
 
 > Excellent design skills, including typographic, color logic and information organization
 
+[Reveal: Data Reporter](https://www.revealnews.org/job-opportunities/data-reporter/)
+
+> Experienced in statistical analysis and modern data journalism practices and version control. You will excel at documenting your work, version control, backstopping, fact-checking and traditional shoe-leather reporting.
+
+> Using your story brain to conceptualize what each project wants to be. What’s important? What’s not? What’s the most efficient way to get it done?
+
 ## Libraries
 
 - https://github.com/WSJ/two-step
