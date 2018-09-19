@@ -50,6 +50,8 @@ Common requirements:
 
 > Using your story brain to conceptualize what each project wants to be. What’s important? What’s not? What’s the most efficient way to get it done?
 
+[CQ - Roll Call](https://www.linkedin.com/jobs/view/newsroom-developer-at-cq-roll-call-inc-874555572/)
+
 ## Libraries
 
 - https://github.com/WSJ/two-step
