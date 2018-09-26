@@ -56,6 +56,12 @@ Common requirements:
 
 [CQ - Roll Call](https://www.linkedin.com/jobs/view/newsroom-developer-at-cq-roll-call-inc-874555572/)
 
+[WSJ: Data Science Newsroom Internship](https://wsj.jobs/new-york-ny/summer-2019-data-science-newsroom-internship-at-the-wall-street-journal/B402800BC18C4AC2A262CC08A5313AC5/job/)
+
+> Diverse portfolio of experiments and journalism projects using emerging technology.
+
+> Knowledge of R and Python. Experience with machine learning and natural language processing using open source libraries including TensorFlow, Scikit Learn, SpaCy, NLTK is preferred.
+
 ## Libraries
 
 - https://github.com/WSJ/two-step
