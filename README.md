@@ -1,4 +1,13 @@
-# data-journalism
+# NLP
+
+## Job Postings
+
+[Factmata](https://angel.co/factmata/jobs)
+
+> At least 2 year experience with applied machine learning & statistical natural language processing. Excellent knowledge of numerical optimisation techniques, statistics, ML algorithms and neural network architectures (CNNs, LSTMs, GANs). Strong background in Linear Algebra, Statistics and Numerical Mathematics. Experience handling large datasets (>billions of rows). Knowledge on scaling up computations (Spark, GPUs, MPI) 
+
+
+# Data Journalism
 A collection of people, guides, and talks that could help me become an aggressively stable middle-income adult.
 
 ## Online Books
