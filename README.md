@@ -19,6 +19,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 - https://datastudiogallery.appspot.com/gallery
 - [What Questions to Ask When Creating Charts](https://blog.datawrapper.de/better-charts/)
 - [Points Unknown](http://pointsunknown.nyc/)
+- [Data scraping for stories](http://r.mediapusher.eu/mk/mr/ZJ6S4KJhnXy9Vi1clPdj2UiLu5zGJZ_QFeBZqNufdVMKEw_EnPq8ms_Nisn3xayQCMfXChoK6NmtaRHiSE4p9MnKK3B2JJXlYdKpoA)
 - http://www.visualisingdata.com/
 - [Data Nibbles](https://datanibbl.es/)
 - [Tidy Tuesday](https://github.com/rfordatascience/tidytuesday)
