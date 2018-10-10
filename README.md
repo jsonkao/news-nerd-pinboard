@@ -17,6 +17,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 ## Good Stuff
 
 - https://datastudiogallery.appspot.com/gallery
+- [What Questions to Ask When Creating Charts](https://blog.datawrapper.de/better-charts/)
 - [Points Unknown](http://pointsunknown.nyc/)
 - http://www.visualisingdata.com/
 - [Data Nibbles](https://datanibbl.es/)
