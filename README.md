@@ -1,5 +1,9 @@
 # NLP
 
+## Good Stuff
+
+- [ProPPY by the Qatar Computing Research Institute](http://proppy.qcri.org/)
+
 ## Job Postings
 
 [Factmata](https://angel.co/factmata/jobs)
