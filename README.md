@@ -20,6 +20,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 ## Good Stuff
 
+- https://flowingdata.com/2018/11/21/process-17/
 - https://datastudiogallery.appspot.com/gallery
 - [What Questions to Ask When Creating Charts](https://blog.datawrapper.de/better-charts/)
 - [Points Unknown](http://pointsunknown.nyc/)
