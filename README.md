@@ -58,6 +58,12 @@ Common requirements:
 
 > The successful candidate for this position will be highly skilled in visual design programs, including Illustrator and Photoshop, as well as be comfortable with multimedia tools, front-end development and data analysis (HTML, CSS, JavaScript, Python, QGIS, After Effects).
 
+LA Times: Data Desk Internship
+
+> Strong applicants will show experience rapidly conceiving, developing and deploying news-related applications for the public.
+
+> Creativity, open-source enthusiasm and delivery on deadline are prized.
+
 [LA Times: Graphics Director](https://www.journalismjobs.com/1647243-graphics-director-los-angeles-times)
 
 > Exceptional technical expertise, including the ability to develop highly complex data visualizations, using state of the art tools 
