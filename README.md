@@ -4,6 +4,8 @@
 
 - [ProPPY by the Qatar Computing Research Institute](http://proppy.qcri.org/)
 
+> Experience with machine learning and natural language processing using open source libraries including TensorFlow, Scikit Learn, SpaCy, NLTK is preferred.
+
 ## Job Postings
 
 [Factmata](https://angel.co/factmata/jobs)
