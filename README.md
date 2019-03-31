@@ -54,13 +54,15 @@ A collection of people, guides, and talks that could help me become an aggressiv
 Common requirements:
 - Drawing/illustration chops
 
+[ProPublica: News Apps Developer](https://web.archive.org/web/20190331170539/https://www.propublica.org/jobs/news-applications-developer-2019)
+
 [Washington Post: Graphics Reporter](http://washpostpr.tumblr.com/post/176949934717/job-posting-graphics-reporter)
 
 > The ideal candidate for this job will have a strong portfolio of original, beautifully designed and intuitive visual stories that mix graphics with other media formats. Experience conceiving, designing, reporting and building information graphics on a variety of deadlines is required.
 
 > The successful candidate for this position will be highly skilled in visual design programs, including Illustrator and Photoshop, as well as be comfortable with multimedia tools, front-end development and data analysis (HTML, CSS, JavaScript, Python, QGIS, After Effects).
 
-LA Times: Data Desk Internship
+[LA Times: Data Desk Internship]()
 
 > Strong applicants will show experience rapidly conceiving, developing and deploying news-related applications for the public.
 
