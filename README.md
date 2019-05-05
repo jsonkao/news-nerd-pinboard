@@ -54,6 +54,52 @@ A collection of people, guides, and talks that could help me become an aggressiv
 Common requirements:
 - Drawing/illustration chops
 
+[LATimes: Director, Data and Visualization](https://nantmedia.wd5.myworkdayjobs.com/LATimesCareers/job/El-Segundo-CA/Director--Data-and-Visualization_REQ_000037)
+
+> Want to push the boundaries of visual storytelling? Do you have a passion for telling stories that inform and entertain?  The Los Angeles Times is looking for an innovative visual journalist to oversee and manage our team’s efforts in experimental and explanatory storytelling with an emphasis on data visualization and interactive journalism. The ideal candidate has a thirst for learning and a hunger to teach, a track record of guiding others, enjoys collaborating with teams across disciplines and has experience taking stories from pitch to publish. 
+
+Responsibilities:
+
+* Provide readers with engaging and informative visual storytelling in multiple forms, including data visualizations, motion graphics and interactives.
+
+* Lead staff in conceptualizing visual storytelling ideas for digital and print platforms
+
+* Develop the ability of others to perform and contribute to the organization by providing ongoing feedback and by providing opportunities to learn through formal and informal methods.
+
+* Mentor team to build reporting skills, elevate visual presentation and improve storytelling
+
+* Collaborate effectively with staff across the newsroom and offer creative and effective solutions for coverage
+
+* Manage the graphics operation, including coverage plans, workflow, scheduling, personnel and recruitment
+
+* Make well-informed, effective, and timely decisions, even when data are limited or solutions produce unpleasant consequences
+
+ 
+
+Requirements:
+
+* A proven record of graphics leadership success, including national honors, with a minimum of three years of management experience
+
+* At least 8 years experience working with data and graphics.
+
+* A robust portfolio of engaging digital and print work that clearly shows creativity and conceptual clarity
+
+* Exceptional technical expertise, including the ability to develop highly complex data visualizations, using state of the art tools
+
+* Advanced visual editing skills and a strong understanding of visual story forms
+
+* Excellent design skills, including typography, color logic and information organization
+
+* Is open to change and new information; rapidly adapts to new information, changing conditions, or unexpected obstacles.
+
+* Strong research, reporting and text editing skills
+
+* Working knowledge of motion graphics and video
+
+* Drawing/illustration chops a big plus
+
+* A competitive spirit and proactive work style
+
 [ProPublica: News Apps Developer](https://web.archive.org/web/20190331170539/https://www.propublica.org/jobs/news-applications-developer-2019)
 
 [Washington Post: Graphics Reporter](http://washpostpr.tumblr.com/post/176949934717/job-posting-graphics-reporter)
