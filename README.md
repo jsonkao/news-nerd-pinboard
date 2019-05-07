@@ -100,6 +100,10 @@ Requirements:
 
 * A competitive spirit and proactive work style
 
+[Politico: News Apps Developer](https://recruiting.ultipro.com/PER1013PCLL/JobBoard/b972ff6a-41b7-4e97-9c71-273c2595c77d/OpportunityDetail?opportunityId=7112cd6c-7476-452e-b306-4bacf80d855a)
+
+[CQ Roll Call: Data Reporter](https://web.archive.org/web/20190507000813/https://careers.fiscalnote.com/positions/7d04a31f-8ef8-42ac-a890-03ee577ee3d7/)
+
 [ProPublica: News Apps Developer](https://web.archive.org/web/20190331170539/https://www.propublica.org/jobs/news-applications-developer-2019)
 
 [Washington Post: Graphics Reporter](http://washpostpr.tumblr.com/post/176949934717/job-posting-graphics-reporter)
