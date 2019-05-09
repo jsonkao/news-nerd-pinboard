@@ -51,8 +51,7 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 ## Job Postings
 
-Common requirements:
-- Drawing/illustration chops
+[The Economist: Data Visualization Designer](https://web.archive.org/web/20190509162724/https://infographics.economist.com/2019/job-data-vis-designer/)
 
 [LATimes: Director, Data and Visualization](https://nantmedia.wd5.myworkdayjobs.com/LATimesCareers/job/El-Segundo-CA/Director--Data-and-Visualization_REQ_000037)
 
