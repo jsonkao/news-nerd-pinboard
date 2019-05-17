@@ -57,6 +57,8 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 [LATimes: Director, Data and Visualization](https://nantmedia.wd5.myworkdayjobs.com/LATimesCareers/job/El-Segundo-CA/Director--Data-and-Visualization_REQ_000037)
 
+[NPR: Senior UX Designer](https://web.archive.org/web/20190517231828/https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6/OpportunityDetail?opportunityId=162673b3-f439-4638-a5d9-da9fddb653ab)
+
 > Want to push the boundaries of visual storytelling? Do you have a passion for telling stories that inform and entertain?  The Los Angeles Times is looking for an innovative visual journalist to oversee and manage our team’s efforts in experimental and explanatory storytelling with an emphasis on data visualization and interactive journalism. The ideal candidate has a thirst for learning and a hunger to teach, a track record of guiding others, enjoys collaborating with teams across disciplines and has experience taking stories from pitch to publish. 
 
 Responsibilities:
