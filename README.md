@@ -103,6 +103,9 @@ Requirements:
 
 * A competitive spirit and proactive work style
 
+[538](https://web.archive.org/web/20190607042931/https://fivethirtyeight.com/jobs/)
+* [Senior Visual Journalist](https://web.archive.org/web/20190607042945/https://jobs.disneycareers.com/job/new-york/senior-visual-journalist-fivethirtyeight/391/11635336)
+
 [Politico: News Apps Developer](https://recruiting.ultipro.com/PER1013PCLL/JobBoard/b972ff6a-41b7-4e97-9c71-273c2595c77d/OpportunityDetail?opportunityId=7112cd6c-7476-452e-b306-4bacf80d855a)
 
 [CQ Roll Call: Data Reporter](https://web.archive.org/web/20190507000813/https://careers.fiscalnote.com/positions/7d04a31f-8ef8-42ac-a890-03ee577ee3d7/)
