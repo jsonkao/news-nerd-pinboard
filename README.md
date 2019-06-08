@@ -103,6 +103,8 @@ Requirements:
 
 * A competitive spirit and proactive work style
 
+[Economist: Senior Data Journalist](https://web.archive.org/web/20190608162718/https://infographics.economist.com/2019/job-data-journalist/?fsrc=scn%252Ftw%252Fte%252Fbl%252Fed%252Ftheeconomistishiringaseniordatajournalist&%253Ffsrc%253Dscn%252F=tw%252Fdc)
+
 [538](https://web.archive.org/web/20190607042931/https://fivethirtyeight.com/jobs/)
 * [Senior Visual Journalist](https://web.archive.org/web/20190607042945/https://jobs.disneycareers.com/job/new-york/senior-visual-journalist-fivethirtyeight/391/11635336)
 
