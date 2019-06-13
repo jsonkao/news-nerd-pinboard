@@ -192,11 +192,51 @@ relational and document-based data stores, such as MySQL or Postgres
 
 > Knowledge of R and Python. Experience with machine learning and natural language processing using open source libraries including TensorFlow, Scikit Learn, SpaCy, NLTK is preferred.
 
-## Libraries
+**ICIJ Data Reporter**
+We are hiring a data analyst to join ICIJ’s data and research team. The position will play an integral part in ICIJ’s data and research desk helping with finding innovative ways of gathering, processing, analyzing and visualizing data to contribute with joint reporting efforts for specific ICIJ investigative projects and connect information across borders. The data reporter will coordinate data work with other team members at different stages of a project, including in the fact-checking phase.
 
-- https://github.com/WSJ/two-step
+The data reporter is expected to work closely with other team members to identify different ways in which data work could help answer reporting needs. ICIJ is looking for someone who is not afraid of leading, proposing ideas and collaborating with others, while sometimes dealing with complex data that could involve thousands or millions of records in different formats, and not always clean and structured at an initial stage.
 
-## Cool People
+To work at ICIJ, you will need to be an effective collaborator, willing to work with colleagues and partners in different time zones, departments and languages (this might mean meetings at odd times of the day.) Not only will you get to work with some of the world’s best journalists on international investigations, but you’ll also be a valued part of the ICIJ team. We want someone who isn’t afraid to share their ideas and willing to step in where needed.
 
-- [Sara Soueidan](https://www.sarasoueidan.com/)
-- [Sahil Chinoy](https://sahilchinoy.com/)
+The team at ICIJ is small but highly ambitious, creative, energetic and passionate about our mission: producing investigative journalism with global impact. We value team players who are willing to go beyond the duties on their job description to help the organization grow. ICIJ prides itself on supporting career development and nurturing skills to help each employee achieve their full potential.
+
+Your responsibilities and opportunities may include, but are not limited to:
+
+Collaborate with other team members to find answers through data for specific reporting needs
+Work on projects involving data gathering, cleaning, processing, analysis and visualization as well as other data-related tasks
+Explore, propose and execute new data related ideas and approaches for different ICIJ projects
+Explore new possibilities of data research and analysis based on specific project needs
+Document ICIJ’s data processes and help ensure that the work complies with ICIJ’s ethic rules and standards.
+Validate and help assessing the quality of the data obtained and used for different projects
+Assess and use combinations of different data sources to help with the exploration of topics systematically at a global scale. Help identify story leads and reporting possibilities through public data gathering and analysis
+Help with training activities to contribute with the understanding of the data used for specific ICIJ projects
+Your skills and experience:
+Data reporters with any level of experience are encouraged to apply, including junior, mid-career and senior data specialists.
+
+Essential
+
+The capability to identify best data analysis approaches based on complexity, quality, size and data structure (using spreadsheet programs, business analysis software or code, depending on specific needs)
+At least 3 years of experience with demonstrated results
+Ability to mine data and produce analysis that can help identify leads or be at the heart of a reporting process
+The capability to work as part of a team and produce key analysis to answer journalistic needs
+Ability to work with structured and unstructured data and research relevant context and documentation linked to it
+Knowledge of public databases that could be used for journalistic research
+Writing abilities and excellent communication skills
+Good organizational and leadership skills
+Good sense of humor, consideration for others, and a passion for journalism
+Preferred
+
+Languages (including Spanish, French, German, Portuguese) are a plus
+Machine Learning applied to journalism knowledge or practical experience is a plus
+Ability to take initiative, receive constructive feedback and learn about new technologies
+The International Consortium of Investigative Journalists is a global network of more than 220 of the world’s best reporters in 83 countries who collaborate on large-scale investigations on issues that do not stop at national frontiers: cross-border crime, corruption, and the accountability of power. Recent projects include the Implant Files, Paradise Papers, Panama Papers, the Evicted and Abandoned investigation into the impact of World Bank projects, Skin and Bone and more.
+
+ICIJ is an equal opportunity employer and is committed to hiring employees from diverse backgrounds with excellent journalism skills. People of color, women, LGBTQ, and differently-abled people are strongly encouraged to apply. To work out of ICIJ’s Washington, D.C., office, candidates must be U.S. citizens or be a suitable candidate for a valid work visa in the United States. We will also consider candidates who can work remotely.
+
+Are you interested in applying?
+Please send your resume and a cover letter explaining why you think you’re the right candidate for this position to Emilia Díaz-Struck (ediazstruck@icij.org) by June 23rd, 2019.
+
+Questions? Please email ICIJ’s Research Editor Emilia Díaz-Struck(ediazstruck@icij.org)
+
+ICIJ is committed to hiring employees from diverse backgrounds with excellent skills. People of color, women, LGBT+, and differently-abled people are strongly encouraged to apply.
