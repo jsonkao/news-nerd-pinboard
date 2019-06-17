@@ -240,3 +240,5 @@ Please send your resume and a cover letter explaining why you think you’re the
 Questions? Please email ICIJ’s Research Editor Emilia Díaz-Struck(ediazstruck@icij.org)
 
 ICIJ is committed to hiring employees from diverse backgrounds with excellent skills. People of color, women, LGBT+, and differently-abled people are strongly encouraged to apply.
+
+[Dallas Morning News: Computation Journalist](https://web.archive.org/web/20190617011537/https://ahbelo.mua.hrdepartment.com/hr/ats/Posting/view/1118)
