@@ -51,6 +51,8 @@ A collection of people, guides, and talks that could help me become an aggressiv
 
 ## Job Postings
 
+[The Markup: Graphics Editor](https://web.archive.org/web/20190810045045/https://boards.greenhouse.io/themarkup/jobs/4387231002)
+
 [Washington Post: Graphics Reporter](https://web.archive.org/web/20190515182851/https://washpostpr.tumblr.com/post/184873162572/job-posting-graphics-reporter)
 
 [The Economist: Data Visualization Designer](https://web.archive.org/web/20190509162724/https://infographics.economist.com/2019/job-data-vis-designer/)
