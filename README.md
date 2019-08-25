@@ -246,46 +246,24 @@ ICIJ is committed to hiring employees from diverse backgrounds with excellent sk
 [Dallas Morning News: Computation Journalist](https://web.archive.org/web/20190617011537/https://ahbelo.mua.hrdepartment.com/hr/ats/Posting/view/1118)
 
 [INT NYT]()
+
 Job Description
 The New York Times is looking for creative, interdisciplinary thinkers with strong technical backgrounds for our Interactive News team, a special digital projects group embedded within the newsroom.  
 
 This engineering role combines technical and editorial thinking to create new forms for our readers and new ways for our journalists to work.  Our team’s mission is to practice software engineering as a newsroom craft. (Read more on our “About Interactive News” page.)
 
 About You
-
-You’re interested in applying your engineering skills to solve journalistic problems.
-We are responsible for creating software and unique interactive experiences that let newsroom staff help readers understand the world in new ways. You value the importance of deadlines; we’ll trust you to deliver.
- 
-
-You might be a frontend, backend or full stack engineer.
-Your specific technical background is less important than your willingness and demonstrated ability to learn, collaborate with others, and solve problems of all varieties to get the job done.
- 
-
-You enjoy collaborative making and iterative learning.  
-We aim to move quickly in aligning our tools and technologies to capitalize on newsroom and reader interests.  This often involves quick pivots, fast iteration and close collaboration with fellow designers, developers, reporters and editors on a project.
- 
-
-You’re interested in working across a range of newsroom contexts.
-We help shape new experiences like frontend reader expressions, internal research and reporting admins, one-off scripts or even larger software supporting specific reporting projects.  
-
-You’ll be contributing to both technical and editorial aspects of this work. We believe the right technology applied at the right points can be transformational for our journalism. 
- 
-
-You have demonstrated experience as an effective engineer.
-We will consider full-time professional experience, or significant work as an intern.  A strong command of engineering fundamentals is important, to work fluidly within newsroom discussion and deadlines.
+* You’re interested in applying your engineering skills to solve journalistic problems. We are responsible for creating software and unique interactive experiences that let newsroom staff help readers understand the world in new ways. You value the importance of deadlines; we’ll trust you to deliver.
+* You might be a frontend, backend or full stack engineer. Your specific technical background is less important than your willingness and demonstrated ability to learn, collaborate with others, and solve problems of all varieties to get the job done.
+* You enjoy collaborative making and iterative learning. We aim to move quickly in aligning our tools and technologies to capitalize on newsroom and reader interests.  This often involves quick pivots, fast iteration and close collaboration with fellow designers, developers, reporters and editors on a project.
+* You’re interested in working across a range of newsroom contexts. We help shape new experiences like frontend reader expressions, internal research and reporting admins, one-off scripts or even larger software supporting specific reporting projects.  
+* You’ll be contributing to both technical and editorial aspects of this work. We believe the right technology applied at the right points can be transformational for our journalism. 
+* You have demonstrated experience as an effective engineer. We will consider full-time professional experience, or significant work as an intern.  A strong command of engineering fundamentals is important, to work fluidly within newsroom discussion and deadlines.
 
 About the Role
-
-Preference will be given to candidates that can work out of our New York City headquarters or Washington, D.C. bureau. 
-We will also consider applications for remote work, with proven effectiveness as a distributed team member.
- 
-
-We don’t require expertise on every part of the stack, though you should be prepared to learn the software frameworks we frequently work with.
-We work primarily in node.js and express, with some ruby, python and golang.  Our apps run in a kubernetes cluster on Google Cloud Platform, most backed by mongo and postgres databases.
- 
-
-We don’t require deep journalism experience, but you should be a critical thinker when it comes to the news. 
-You’ll be directly involved in shaping thoughtful experiences for New York Times readers.
+* Preference will be given to candidates that can work out of our New York City headquarters or Washington, D.C. bureau. We will also consider applications for remote work, with proven effectiveness as a distributed team member.
+* We don’t require expertise on every part of the stack, though you should be prepared to learn the software frameworks we frequently work with. We work primarily in node.js and express, with some ruby, python and golang.  Our apps run in a kubernetes cluster on Google Cloud Platform, most backed by mongo and postgres databases.
+* We don’t require deep journalism experience, but you should be a critical thinker when it comes to the news. You’ll be directly involved in shaping thoughtful experiences for New York Times readers.
 
 About the Interactive News team
 
