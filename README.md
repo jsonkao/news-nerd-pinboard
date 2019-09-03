@@ -293,3 +293,4 @@ Provide work samples (code snippets, URLs, project summaries) describing your mo
 
 Describe where you saw our job posting.
 
+[Chicago Tribune](https://github.com/newsapps/jobs)
