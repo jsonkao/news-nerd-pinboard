@@ -294,3 +294,39 @@ Provide work samples (code snippets, URLs, project summaries) describing your mo
 Describe where you saw our job posting.
 
 [Chicago Tribune](https://github.com/newsapps/jobs)
+
+[LA Times: Deputy Editor, Data and Graphics](https://nantmedia.wd5.myworkdayjobs.com/en-US/LATimesCareers/job/El-Segundo-CA/Deputy-Editor--Data-and-Graphics_REQ_000281)
+
+As a deputy head of our Data and Graphics Department, you would direct the online presentation of the newsroom’s tentpole digital features, including signature explanatory and investigative series, podcast serials, annual lists and live election results.  
+
+This editor will partner with newsroom leadership to conceive how The Times’ most vital work is presented digitally, and then guide the project managers and coders charged with bringing the vision to life.
+
+This management job calls for a leader prepared to oversee complex projects that showcase the work of multiple departments. It also calls for an editor with strong news judgment and an equally strong sense for story design. Management experience is preferred, including assigning, organizing and editing data, visual and interactive work.
+
+Our Data and Graphics Department is a multitalented team of reporters and computer programmers. Its work has attracted millions of readers, sparked sweeping government reforms and helped win some of our industry’s highest awards. The team also produces many of the newsroom’s most experimental ventures with emerging technology.
+
+Qualifications: 
+* A track record of producing visually compelling work
+* Impeccable interpersonal skills
+* Demonstrated ability to work well in a team setting and multitask in a deadline-driven environment
+* Passion about the news and its role in serving our democracy paired with optimism about the changes sweeping through the news industry
+* An ethical and inclusive approach in the workplace
+* Must be comfortable with ever-changing priorities
+
+[Newsperson, Data Visualization](http://web.archive.org/web/20190924174256/https://careers.ap.org/job/District-of-Columbia-Newsperson-DC/589109700/?locale=en_US)
+
+The Associated Press seeks a data visualization specialist who combines advanced technical ability, a commitment to collaboration and a passion for visual explanation of data to join its public opinion research team as a newsperson, based in Washington, D.C.
+
+Responsibilities:
+* Reporting to the Director of Public Opinion Research, this newsperson will have a deep interest in exploring the opinions of the American electorate and the issues that drive elections, and will analyze survey data to create data visualizations that illuminate the findings of AP’s surveys and its AP VoteCast election research. The successful candidate must have the ability to sketch with data, to iteratively explore visual ideas with colleagues and subject-matter experts, and to collaborate with them to develop the strongest visualizations possible. This newsperson should have a strong understanding of best practices in public opinion research and be able to evaluate survey research critically. The successful candidate must have the ability and willingness to work any shift, including at night and on weekends, or as coverage demands, as AP is a 24/7 operation.
+
+The successful candidate will:
+* have a demonstrated history of creating engaging and informative data visualizations, with a record of compelling work on deadline.
+* work among a team of journalists, reporters and editors to deliver data visualizations that break news, have impact and are exclusive to AP.
+* have strong communication skills and the ability to work collaboratively with the diverse team of journalists at the AP who operate in all formats: text, photo, video, audio, digital/social, interactive and graphics.
+* have a great news sense, with the ability to communicate visual stories that people will want to share, like and talk about on social media and other platforms.
+* pursue innovative coverage techniques while maintaining AP’s standards for integrity and objectivity.
+
+Qualifications:
+
+This newsperson must have demonstrated excellence as a data-driven storyteller, with a deep record of working with dynamic visualization as part of full-stack application with real-time data. Applicants must have strong JavaScript experience, including work with modern JavaScript (ES5+); experience using a popular framework, such as React, Vue or Angular is a plus. The successful candidate must have experience using data manipulation and visualization libraries for the web, especially D3; a high-comfort level using statistics is a plus, especially experience using R, SPSS, SAS, Python PANDAS or other statistical programming packages and the visualization capabilities of these packages. This newsperson must be able to work effectively with colleagues and peers in teams and should have at least three years of full-time experience at a daily newspaper, broadcast station, online or digital news outlet, an AP bureau or regional desk, or a survey research organization.
