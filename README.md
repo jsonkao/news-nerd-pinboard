@@ -334,3 +334,11 @@ This newsperson must have demonstrated excellence as a data-driven storyteller, 
 [Wall Street Journal: Graphics Editor](https://web.archive.org/web/20191021000309/https://wsj.jobs/new-york-ny/graphics-editor-corporate/64B7FECA986E426E927723B274EAA817/job/)
 
 [The Atlantic: Senior Editor, Experimental Storytelling](https://web.archive.org/web/20191024234928/https://atlanticmedia.applytojob.com/apply/p3y1EqCt7q/Senior-Editor-Experimental-Storytelling)
+
+**NYT: Graphics Fellow 2020**
+
+The core of the graphics fellowship is the intersection of information visualization and journalism. Fellows will work closely with graphics editors and department leaders to develop skills and judgment as reporters and shapers of visual stories. As part of daily news coverage or enterprise projects, fellows will report, write, edit, design and produce interactive graphics and multimedia across all Times platforms. 
+
+The graphics desk covers all subjects, from economics and elections to culture and sports. Strong candidates will also be curious about all of it, coming to the newsroom with lots of ideas and with great enthusiasm for potential lines of reporting.
+
+The most competitive candidates will be interested in data visualization, cartography or other forms of visual journalism, and they will have already developed skills to start producing work in these areas. The pool of candidates will mainly consist of college graduates, postgraduates or budding journalists of any age who have had previous news or visuals internships or equivalent experience.
