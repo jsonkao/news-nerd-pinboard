@@ -342,3 +342,6 @@ The core of the graphics fellowship is the intersection of information visualiza
 The graphics desk covers all subjects, from economics and elections to culture and sports. Strong candidates will also be curious about all of it, coming to the newsroom with lots of ideas and with great enthusiasm for potential lines of reporting.
 
 The most competitive candidates will be interested in data visualization, cartography or other forms of visual journalism, and they will have already developed skills to start producing work in these areas. The pool of candidates will mainly consist of college graduates, postgraduates or budding journalists of any age who have had previous news or visuals internships or equivalent experience.
+
+**Boston Globe News Dev**
+https://web.archive.org/save/https://bostonglobemediapartners.applytojob.com/apply/lnLkzCrjYh/News-DesignerDeveloper
