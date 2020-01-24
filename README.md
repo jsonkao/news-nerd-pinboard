@@ -39,7 +39,7 @@ Interesting books, people, and journalism jobs.
 * [Boston Globe News Dev](https://web.archive.org/save/https://bostonglobemediapartners.applytojob.com/apply/lnLkzCrjYh/News-DesignerDeveloper)
 * [NPR: Senior UX Designer](https://web.archive.org/web/20190517231828/https://recruiting.ultipro.com/NAT1011NATPR/JobBoard/af823b19-a43b-4cda-b6c2-c06508d84cf6/OpportunityDetail?opportunityId=162673b3-f439-4638-a5d9-da9fddb653ab)
 
-#### Center for Public Integrity: Data Journalism Fellowship
+### Center for Public Integrity: Data Journalism Fellowship
 
 **Description**
 
@@ -95,35 +95,35 @@ Requirements:
 * Drawing/illustration chops a big plus
 * A competitive spirit and proactive work style
 
-#### [Washington Post: Graphics Reporter](http://washpostpr.tumblr.com/post/176949934717/job-posting-graphics-reporter)
+### [Washington Post: Graphics Reporter](http://washpostpr.tumblr.com/post/176949934717/job-posting-graphics-reporter)
 
 > The ideal candidate for this job will have a strong portfolio of original, beautifully designed and intuitive visual stories that mix graphics with other media formats. Experience conceiving, designing, reporting and building information graphics on a variety of deadlines is required.
 
 > The successful candidate for this position will be highly skilled in visual design programs, including Illustrator and Photoshop, as well as be comfortable with multimedia tools, front-end development and data analysis (HTML, CSS, JavaScript, Python, QGIS, After Effects).
 
-#### LA Times: Data Desk Internship
+### LA Times: Data Desk Internship
 
 > Strong applicants will show experience rapidly conceiving, developing and deploying news-related applications for the public.
 
 > Creativity, open-source enthusiasm and delivery on deadline are prized.
 
-#### [LA Times: Graphics Director](https://www.journalismjobs.com/1647243-graphics-director-los-angeles-times)
+### [LA Times: Graphics Director](https://www.journalismjobs.com/1647243-graphics-director-los-angeles-times)
 
 > Exceptional technical expertise, including the ability to develop highly complex data visualizations, using state of the art tools 
 
 > Excellent design skills, including typographic, color logic and information organization
 
-#### [Reveal: Data Reporter](https://www.revealnews.org/job-opportunities/data-reporter/)
+### [Reveal: Data Reporter](https://www.revealnews.org/job-opportunities/data-reporter/)
 
 > Experienced in statistical analysis and modern data journalism practices and version control. You will excel at documenting your work, version control, backstopping, fact-checking and traditional shoe-leather reporting.
 
 > Using your story brain to conceptualize what each project wants to be. What’s important? What’s not? What’s the most efficient way to get it done?
 
-#### [WSJ: Data Science Newsroom Internship](https://wsj.jobs/new-york-ny/summer-2019-data-science-newsroom-internship-at-the-wall-street-journal/B402800BC18C4AC2A262CC08A5313AC5/job/)
+### [WSJ: Data Science Newsroom Internship](https://wsj.jobs/new-york-ny/summer-2019-data-science-newsroom-internship-at-the-wall-street-journal/B402800BC18C4AC2A262CC08A5313AC5/job/)
 
 > Diverse portfolio of experiments and journalism projects using emerging technology.
 
-#### The New Yorker: Data Journalist
+### The New Yorker: Data Journalist
 
 > The New Yorker is seeking an experienced data journalist to join our small but highly motivated Multimedia and Interactive Features team. You will pitch, report, and build data-driven stories for newyorker.com while collaborating with editors, producers, designers, and developers. This is a journalistic position as much as a technical one. In addition to your programming skills, we are looking for interest in key news areas, including politics, immigration, criminal justice, health care, economics, and the environment. While your main responsibility is to take stories from pitch to publication, you will also create supporting data graphics for articles. For example, you might be asked to use data to illustrate extreme-weather events; or the popularity of a song over time, based on Spotify data; or gun purchases, using the state-level data from the National Instant Criminal Background Check System. As part of The New Yorker’s multimedia team, you will create work that pushes the boundaries of visual journalism and supports world-class reporting.
 
@@ -168,7 +168,7 @@ Nice to have (do not let this list limit you from applying. If you happen to hav
   * relational and document-based data stores, such as MySQL or Postgres
 * Knowledge of R and Python. Experience with machine learning and natural language processing using open source libraries including TensorFlow, Scikit Learn, SpaCy, NLTK is preferred.
 
-#### ICIJ Data Reporter
+### ICIJ Data Reporter
 
 We are hiring a data analyst to join ICIJ’s data and research team. The position will play an integral part in ICIJ’s data and research desk helping with finding innovative ways of gathering, processing, analyzing and visualizing data to contribute with joint reporting efforts for specific ICIJ investigative projects and connect information across borders. The data reporter will coordinate data work with other team members at different stages of a project, including in the fact-checking phase.
 
@@ -213,7 +213,7 @@ Are you interested in applying? Please send your resume and a cover letter expla
 
 Questions? Please email ICIJ’s Research Editor Emilia Díaz-Struck(ediazstruck@icij.org)
 
-#### INT NYT
+### INT NYT
 
 The New York Times is looking for creative, interdisciplinary thinkers with strong technical backgrounds for our Interactive News team, a special digital projects group embedded within the newsroom.  
 
@@ -246,7 +246,7 @@ Instead of a cover letter, our application will use the following materials to e
   * Describe any journalism experience you may have
   * Provide work samples (code snippets, URLs, project summaries) describing your most relevant work for this position and how it expresses your approach to engineering.
 
-#### [LA Times: Deputy Editor, Data and Graphics](https://nantmedia.wd5.myworkdayjobs.com/en-US/LATimesCareers/job/El-Segundo-CA/Deputy-Editor--Data-and-Graphics_REQ_000281)
+### [LA Times: Deputy Editor, Data and Graphics](https://nantmedia.wd5.myworkdayjobs.com/en-US/LATimesCareers/job/El-Segundo-CA/Deputy-Editor--Data-and-Graphics_REQ_000281)
 
 As a deputy head of our Data and Graphics Department, you would direct the online presentation of the newsroom’s tentpole digital features, including signature explanatory and investigative series, podcast serials, annual lists and live election results.  
 
@@ -264,7 +264,7 @@ Qualifications:
 * An ethical and inclusive approach in the workplace
 * Must be comfortable with ever-changing priorities
 
-#### [AP: Newsperson, Data Visualization](http://web.archive.org/web/20190924174256/https://careers.ap.org/job/District-of-Columbia-Newsperson-DC/589109700/?locale=en_US)
+### [AP: Newsperson, Data Visualization](http://web.archive.org/web/20190924174256/https://careers.ap.org/job/District-of-Columbia-Newsperson-DC/589109700/?locale=en_US)
 
 The Associated Press seeks a data visualization specialist who combines advanced technical ability, a commitment to collaboration and a passion for visual explanation of data to join its public opinion research team as a newsperson, based in Washington, D.C.
 
@@ -283,7 +283,7 @@ The successful candidate will:
 
 Qualifications: This newsperson must have demonstrated excellence as a data-driven storyteller, with a deep record of working with dynamic visualization as part of full-stack application with real-time data. Applicants must have strong JavaScript experience, including work with modern JavaScript (ES5+); experience using a popular framework, such as React, Vue or Angular is a plus. The successful candidate must have experience using data manipulation and visualization libraries for the web, especially D3; a high-comfort level using statistics is a plus, especially experience using R, SPSS, SAS, Python PANDAS or other statistical programming packages and the visualization capabilities of these packages. This newsperson must be able to work effectively with colleagues and peers in teams and should have at least three years of full-time experience at a daily newspaper, broadcast station, online or digital news outlet, an AP bureau or regional desk, or a survey research organization.
 
-#### NYT: Graphics Fellow 2020
+### NYT: Graphics Fellow 2020
 
 The core of the graphics fellowship is the intersection of information visualization and journalism. Fellows will work closely with graphics editors and department leaders to develop skills and judgment as reporters and shapers of visual stories. As part of daily news coverage or enterprise projects, fellows will report, write, edit, design and produce interactive graphics and multimedia across all Times platforms. 
 
@@ -291,11 +291,11 @@ The graphics desk covers all subjects, from economics and elections to culture a
 
 The most competitive candidates will be interested in data visualization, cartography or other forms of visual journalism, and they will have already developed skills to start producing work in these areas. The pool of candidates will mainly consist of college graduates, postgraduates or budding journalists of any age who have had previous news or visuals internships or equivalent experience.
 
-#### [ProPPY by the Qatar Computing Research Institute](http://proppy.qcri.org/)
+### [ProPPY by the Qatar Computing Research Institute](http://proppy.qcri.org/)
 
 * Experience with machine learning and natural language processing using open source libraries including TensorFlow, Scikit Learn, SpaCy, NLTK is preferred.
 
-#### [Factmata](https://angel.co/factmata/jobs)
+### [Factmata](https://angel.co/factmata/jobs)
 
 * At least 2 year experience with applied machine learning & statistical natural language processing. Excellent knowledge of numerical optimisation techniques, statistics, ML algorithms and neural network architectures (CNNs, LSTMs, GANs). Strong background in Linear Algebra, Statistics and Numerical Mathematics. Experience handling large datasets (>billions of rows). Knowledge on scaling up computations (Spark, GPUs, MPI) 
 
