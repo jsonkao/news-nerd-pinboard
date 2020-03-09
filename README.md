@@ -1,6 +1,4 @@
-# Data Journalism
-
-Interesting books, people, and journalism jobs.
+Interesting books, people, and role organizations.
 
 ## Good Things
 
