@@ -1,4 +1,4 @@
-Interesting books, people, and role organizations.
+Pinboard for people, books, new newsroom roles, …
 
 ## Good Things
 
