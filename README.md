@@ -16,6 +16,10 @@ Pinboard for people, books, new newsroom roles, …
 - [R for Data Science](http://r4ds.had.co.nz/)
 - https://github.com/robroc/nicar16-visualizing-data-python
 
+## More good things
+
+- [Jacky's](http://www.sixstarstudio.com/) job, consulting for other orgs like CFR to make interactive experiences, seems like a next step
+
 ## Newsroom Roles
 
 #### Links
